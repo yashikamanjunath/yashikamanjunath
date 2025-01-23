@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi, I'm Yashika Manjunath! I'm interested in web designing, graphics, and digital marketing.
+Hi, I'm Yashika Manjunath! I'm passionate about **web designing, graphics, and digital marketing**.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashika_manjunath_01)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yashika_manjunath_01)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -29,7 +29,7 @@ Hi, I'm Yashika Manjunath! I'm interested in web designing, graphics, and digita
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=yashikamanjunath&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo:
+### 🔝 Top Contributed Repos:
 ![](https://github-contributor-stats.vercel.app/api?username=yashikamanjunath&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
